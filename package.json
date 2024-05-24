@@ -11,12 +11,12 @@
     "server": "json-server --watch db.json"
   },
   "dependencies": {
-    "@astrojs/check": "^0.5.10",
-    "@astrojs/netlify": "^5.2.0",
-    "@astrojs/sitemap": "^3.1.2",
-    "astro": "^4.5.14",
+    "@astrojs/check": "^0.7.0",
+    "@astrojs/netlify": "^5.2.1",
+    "@astrojs/sitemap": "^3.1.5",
+    "astro": "^4.9.0",
     "astro-icon": "^1.1.0",
-    "json-server": "^1.0.0-alpha.23",
-    "typescript": "^5.4.3"
+    "json-server": "^1.0.0-beta.0",
+    "typescript": "^5.4.5"
   }
 }
